@@ -2,7 +2,7 @@
 This is a simple library to interact with hbsms.com api and send sms .
 
 ```
-composer requier hobrt/hbsms
+composer require hobrt/hbsms
 ```
 
 
