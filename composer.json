@@ -1,0 +1,21 @@
+{
+    "name": "hobrt/hbsms",
+    "description": "This is a simple library to interact with hbsms.com api and send sms .",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hobrt",
+            "email": "contact@hobrt.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "hobrt\\": "src/"
+        }
+    }
+}
